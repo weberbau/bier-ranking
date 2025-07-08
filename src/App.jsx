@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Rankings from "./pages/Rankings.jsx";
-import Admin from "./pages/Admin.jsx";
+import Rankings from "./pages/Rankings";
+import Admin from "./pages/Admin";
 import { useState } from "react";
 
 export default function App() {
